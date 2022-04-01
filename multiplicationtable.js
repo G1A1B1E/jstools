@@ -23,3 +23,10 @@ function createTable(rows, cols)
 output = output + "</table>";
 document.write(output);
 }
+/*
+mulit
+src 
+var
+gabe macri
+*/
+
